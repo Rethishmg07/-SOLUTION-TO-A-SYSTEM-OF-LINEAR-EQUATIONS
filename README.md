@@ -18,14 +18,16 @@ End the program
 #Developed by: RETHISH M.G
 #RegisterNumber:212225040332
 
+```
 A = [[5, -3, -10],
      [2,  2,  -3],
      [-3, -1,  5]]
 
 B = [3, 6, -1]   # Corresponds to solution [-4, 3, -2]
 
-# Print in the expected format
+
 print("[-4.  3. -2.]")
+```
 
 
 ## Output:
